@@ -1,0 +1,12 @@
+==============================
+  STUDENT REPORT CARD
+==============================
+trish - Passed✅
+mark - Failed❌
+zee - Passed✅
+==============================
+Class Average:  69.67%
+Top Student: zee with 99%
+Students Passed: 2
+Students Failed: 1
+==============================
